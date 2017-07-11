@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>RevStack.QuickBooksOnline</id>
+    <version>1.0.0</version>
+    <authors>David Sheets</authors>
+    <owners>David Sheets</owners>
+    <licenseUrl>https://github.com/RevStack/QuickBooksOnline/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/RevStack/QuickBooksOnline.git</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>RevStack Implementation of the QuickBooks Payments API</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>RevStack QuickBooks Payments API</tags>
+  </metadata>
+</package>
